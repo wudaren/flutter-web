@@ -38258,7 +38258,7 @@ s.margin="0"
 s=t.style
 s.border="none"
 q.a.toString
-W.b0(t,"playing",new L.OC(q),!1,u.BV.d)
+W.b0(t,"play",new L.OC(q),!1,u.BV.d)
 return r},
 $S:165}
 L.OC.prototype={
